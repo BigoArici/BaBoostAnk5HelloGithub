@@ -19,7 +19,7 @@
 Merhaba benim adim Bilgehan BilgeAdam Boost Ankara-5 ogrencisiyim.
 
 ### Sinif Listesi
-- Github adi: galipyildiz [Galip YILDIZ]()
+- Github adi: galipyildiz [Galip YILDIZ](https://github.com/galipyildiz)
 - Github adi: BilgehanArici [Bilgehan ARICI](https://github.com/BilgehanArici)
 - Github adi: sinaemre [Sina Emre BERKAR](https://github.com/sinaemre)
 - Github adi: MAliRagipCakir[Muhammed Ali Ragip CAKIR](https://github.com/MAliRagipCakir)
