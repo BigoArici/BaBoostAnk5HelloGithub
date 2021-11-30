@@ -19,19 +19,21 @@
 Merhaba benim adim Bilgehan BilgeAdam Boost Ankara-5 ogrencisiyim.
 
 ### Sinif Listesi
-- Github adi: galipyildiz [Galip YILDIZ](https://github.com/galipyildiz)
-- Github adi: BilgehanArici [Bilgehan ARICI](https://github.com/BilgehanArici)
-- Github adi: sinaemre [Sina Emre BERKAR](https://github.com/sinaemre)
-- Github adi: MAliRagipCakir[Muhammed Ali Ragip CAKIR](https://github.com/MAliRagipCakir)
-- Github adi: kudretakpinar [Kudret AKPINAR](https://github.com/kudretakpinar)
-- Github adi: ezgiyildirim21 [Ezgi YILDIRIM](https://github.com/ezgiyildirim21)
-- Github adi: tugbakurt [Tugba KURT](https://github.com/tugbakurt)
-- Github adi: angun2serkan [Ethem Serkan ANGUN](https://github.com/angun2serkan)
-- Github adi: handenurtok [Hande Nur TOKPUNAR](https://github.com/Handenurtok)
-- Github adi: sedaahi [Seda AHI](https://github.com/sedaahi)
-- Github adi: koray95 [Koray DOGAN](https://github.com/Koray95)
-- Github adi: BilgeTuna [Bilge Tuna GUNDOGAN](https://github.com/BilgeTuna)
-- Github adi: AysegulCelk [Aysegul CELIK](https://github.com/AysegulCelk)
-- Github adi: omerfe [Omer Faruk EKER](https://github.com/omerfe)
-- Github adi: karatasarzu [Arzu KARATAS](https://github.com/karatasarzu)
-- Github adi: ukucukali [Ugurcan KUCUKALI](https://github.com/ukucukali)
+Github adı: yigith Yiğit Hacıefendioğlu
+Github adı: galipyildiz Galip Yıldız
+Github adı: BilgehanArici Bilgehan Arıcı bilgehanarici97
+Github adı: sinaemre Sina Emre Bekar
+Github adı: MAliRagipCakir Muhammed Ali Ragıp Çakır MAliRagipCakir
+Github adı: kudretakpinar Kudret Akpınar kudret_3642
+Github adı: ezgiyildirim21 Ezgi Yıldırım ezgiyildirim38
+Github adı: tugbakurt Tuğba Kurt tugba_basdogan
+Github adı: angun2serkan Ethem Serkan Angün angun_serkan2
+Github adı: handenurtok Hande Nur Tokpunar
+Github adı: sedaahi Seda Ahi ahiseda
+Github adı: koray95 Koray Doğan koraydogan95
+Github adı: BilgeTuna Bilge Tuna Gündoğan bilgetunagn
+Github adı: AysegülCelk Ayşegül Çelik gulsadress
+Github adı: omerfe Ömer Faruk Eker omerfe_eker
+Github adı: karatasarzu Arzu Karataş arzukaratas95
+Github adı: ukucukali Uğurcan Küçükali ugurcan_ku07
+Github adı: burakyuz1 Burak Akyüz burakyuzz
